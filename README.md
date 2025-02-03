@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sema Nur</h1>
-<h3 align="center">2nd year computer engineering student. Curious and learning a little bit of everything.</h3>
+<h3 align="center">3th year computer engineering student. Curious and learning a little bit of everything.</h3>
 
-- 🔭 I’m currently interested in **AI, mobile, embedded systems(little bit everything)**
-
-- 🌱 I’m currently learning **Flutter, C for embedded**
+- 🔭 I’m currently interested in **web and devops technologies**
 
 - 📫 How to reach me **catsemanur@gmail.com**
 
